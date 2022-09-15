@@ -1,2 +1,27 @@
-# awesome-LM
-studing...
+# Language Models / Methods
+studying...
+- **ELMo** Embedding from Language Models (Deep contextualized word representations)
+- **GPT** Generative Pre-trained Transformer
+- **BERT** Bidirectional Encoder Representations from Transformers
+- **XLM** Cross-lingual Language Model Pretraining
+- **GPT-2** Language Models are Unsupervised Multitask Learners
+- **GPT-3** Language Models are Few-Shot Learners
+- **RoBERTa** A Robustly Optimized BERT Pretraining Approach
+- **XLNet** Generalized Autoregressive Pretraining for Language Understanding
+- **ALBERT** A lite BERT for self-supervised learning of language representations
+- **SpanBERT** Improving pre-training by representing and predicting spans
+- **UniLM** Unified pre-trained Language Model
+- **MASS** Masked Sequence to Sequence pre-training for Language Generation
+- **BART** denoising autoencoder for pretraining sequence-to-sequence model
+- **T5** Exploring the limits of transfer learning with a unified text-to-text transformer
+- **DistilBERT** a distilled version of BERT: smaller, faster, cheaper and lighter
+- **Longformer** The Long-Document Transformer
+- **ERNIE** Enhanced Language Representation with Informative Entities
+- **ELECTRA** Efficiently Learning an Encoder that Classifies Token Replacements Accurately
+- **DeBERTa** Decoding-enhanced BERT with Disentangled Attention
+- **LUKE** Deep Contextualized Entity Representations with Entity-aware Self-attention
+- **ULMFiT** Universal Language Model Fine-tuning for text classification
+- **Prompt Learning** Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
+- **Swin Transformer** Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+- **CLIP** Learning Transferable Visual Models From Natural Language Supervision
+- **Diffusion Models** Diffusion Models: A Comprehensive Survey of Methods and Applications
