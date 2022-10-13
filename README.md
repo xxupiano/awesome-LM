@@ -25,3 +25,4 @@ studying...
 - **Swin Transformer** Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - **CLIP** Learning Transferable Visual Models From Natural Language Supervision
 - **Diffusion Models** Diffusion Models: A Comprehensive Survey of Methods and Applications
+- **Prefix** Prefix-Tuning: Optimizing Continuous Prompts for Generation
