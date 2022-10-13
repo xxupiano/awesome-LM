@@ -10,7 +10,7 @@ studying...
 - **XLNet** Generalized Autoregressive Pretraining for Language Understanding
 - **ALBERT** A lite BERT for self-supervised learning of language representations
 - **SpanBERT** Improving pre-training by representing and predicting spans
-- **UniLM** Unified pre-trained Language Model
+- **UniLM** Unified pre-trained Language Model for NLU and NLG
 - **MASS** Masked Sequence to Sequence pre-training for Language Generation
 - **BART** denoising autoencoder for pretraining sequence-to-sequence model
 - **T5** Exploring the limits of transfer learning with a unified text-to-text transformer
