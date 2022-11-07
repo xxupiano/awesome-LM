@@ -29,3 +29,4 @@ studying...
 - **KNN-LM** Generalization through memorization: nearest neighbor LMs
 - **KEPLER** A Unified Model for Knowledge Embedding and Pre-trained Language Representation
 - **WKLM** Pretrained Encyclopiedia: Weakly Supervised Knowledge-pretrained Language Model
+- **CoLAKE** Contextualized Language and Knowledge Embedding
