@@ -27,3 +27,5 @@ studying...
 - **Diffusion Models** Diffusion Models: A Comprehensive Survey of Methods and Applications
 - **Prefix** Prefix-Tuning: Optimizing Continuous Prompts for Generation
 - **KNN-LM** Generalization through memorization: nearest neighbor LMs
+- **KEPLER** A Unified Model for Knowledge Embedding and Pre-trained Language Representation
+- **WKLM** Pretrained Encyclopiedia: Weakly Supervised Knowledge-pretrained Language Model
